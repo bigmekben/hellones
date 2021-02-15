@@ -52,7 +52,7 @@ NMI:
   .bank 1
   .org $FFFA
   .dw NMI
-  .dw REST
+  .dw RESET
   .dw 0
 
   .bank 2

@@ -57,4 +57,4 @@ NMI:
 
   .bank 2
   .org $0000
-  .incbin "mario.chr"	; SMB1 graphics, 8K 
+  .incbin "hellones.chr"	; SMB1 graphics, 8K 
